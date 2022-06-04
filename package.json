@@ -1,0 +1,22 @@
+{
+  "name": "lesson18",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dronovs/lesson-18-npm.git"
+  },
+  "keywords": [
+    "lesson"
+  ],
+  "author": "Serhii Dronov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dronovs/lesson-18-npm/issues"
+  },
+  "homepage": "https://github.com/dronovs/lesson-18-npm#readme"
+}
